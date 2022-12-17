@@ -87,7 +87,7 @@ function App() {
       ])}
   <br />
       {/* Button new game */}
-      <button onClick={resetGame} className='mt-6 bg-blue-700 py-4 px-6 rounded-full text-white font-bold text-xl'>Nuevo juego?</button>
+      <button onClick={resetGame} className='mt-6 mb-6 bg-blue-600 py-[0.6rem] px-6 rounded-full text-white font-bold text-xl hover:bg-blue-900'>Nuevo juego?</button>
       
     </div>
   )
